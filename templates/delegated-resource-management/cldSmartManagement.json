@@ -31,15 +31,20 @@
             },
             "defaultValue": [
                 { 
-                    "principalId": "ee8f6d35-15f2-4252-b1b8-591358e8a244", 
+                    "principalId": "7d3bc11f-8ef7-4185-a648-8d20be1b3c4e", 
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "PIM_Group" 
+                    "principalIdDisplayName": "CldSmart Advisors" 
                 }, 
                 { 
-                    "principalId": "ee8f6d35-15f2-4252-b1b8-591358e8a244", 
-                    "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-                    "principalIdDisplayName": "PIM_Group" 
-                }   
+                    "principalId": "d7d382f1-b9a9-482f-8783-34ed16422a54", 
+                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
+                    "principalIdDisplayName": "CldSmart Automation" 
+                },
+                { 
+                    "principalId": "a7d2894e-61f5-4d59-b3a2-f23fd2c2c32e", 
+                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
+                    "principalIdDisplayName": "CldSmart Engineers" 
+                }  
             ]
         }              
     },
